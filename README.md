@@ -12,7 +12,7 @@
 
 ### Discovery
 
-- _Why slowlanes are necessary for Contra_
+- _Why slowlanes are necessary for any pipeline system
 
 ### NEXT UP
 
